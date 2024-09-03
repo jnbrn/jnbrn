@@ -2,12 +2,16 @@
 
 <img align='right' src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="230">
 
-<p><em>Fullstack Developer Extraordinaire <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+Founder of [VYTE](http://vyte.dev) and Fullstack Development Specialist
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JnOfVyte?label=Follow)](https://twitter.com/intent/follow?screen_name=JnOfVyte)
 [![Linkedin: John Noel Bruno](https://img.shields.io/badge/-JohnNoelBruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-noel-bruno-a31865123)](https://www.linkedin.com/in/john-noel-bruno-a31865123)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=JohnNoelBruno.JohnNoelBruno)
+
+### About Vyte LLC
+
+[VYTE](http://vyte.dev) is an innovative agency dedicated to turning your visionary startup ideas into fully functional, market-ready products. Our expertise lies in developing robust MVPs utilizing cutting-edge JavaScript technologies alongside strong backend and DevOps solutions. We are passionate about creating scalable and secure applications, particularly within the Fintech, Logistics, and eCommerce industries. For more information, visit our website at [VYTE](http://vyte.dev).
 
 ### 📫 Like to meet me?
 
@@ -80,5 +84,3 @@ Quote of the Day:
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
